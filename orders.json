@@ -1,0 +1,19 @@
+{
+  "Amazon": [
+    {
+      "item": "iPhone 14",
+      "status": "Out for delivery"
+    },
+    {
+      "item": "Phone Case",
+      "status": "Delivered"
+    }
+  ],
+  "Flipkart": [
+    {
+      "item": "Sports Shoes",
+      "status": "Shipped"
+    }
+  ],
+  "Myntra": []
+}
