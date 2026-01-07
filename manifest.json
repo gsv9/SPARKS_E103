@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "AI Navigation Assistant",
+  "version": "1.0",
+  "description": "Chatbot that helps users navigate real websites using AI",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
