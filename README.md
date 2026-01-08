@@ -1,1 +1,2 @@
 # SPARKS_E103
+This is Multi-Platform Shopping Assistant is an Al-powered system that enables users to compare products and navigate e-commerce platforms using natural language. It supports price comparison across Amazon and Flipkart and allows quick access to cart, orders, wishlist, and profile pages. The assistant ensures user privacy by avoiding login-based interactions and uses confirmation-based redirection. This solution simplifies complex website navigation and improves user experience.
