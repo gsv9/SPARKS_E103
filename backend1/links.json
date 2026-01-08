@@ -1,0 +1,16 @@
+{
+  "Amazon": {
+    "home": "https://www.amazon.in",
+    "cart": "https://www.amazon.in/gp/cart/view.html",
+    "wishlist": "https://www.amazon.in/hz/wishlist",
+    "orders": "https://www.amazon.in/gp/css/order-history",
+    "profile": "https://www.amazon.in/gp/css/account"
+  },
+  "Flipkart": {
+    "iphone_14": "https://www.flipkart.com",
+    "cart": "https://www.flipkart.com/viewcart",
+    "wishlist": "https://www.flipkart.com/wishlist",
+    "orders": "https://www.flipkart.com/account/orders",
+    "profile": "https://www.flipkart.com/account"
+  }
+}
